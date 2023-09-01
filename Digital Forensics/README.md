@@ -3,6 +3,6 @@
 
 <img src="https://i.imgur.com/fGOO2Vq.png" />
 
-<p align = "center"> <img src="https://i.imgur.com/2G6LSSF.png" /> </p>
+<p align = "center"> <img src="https://i.imgur.com/2G6LSSF.png" width="350px" height="450px"/> </p>
 
 
