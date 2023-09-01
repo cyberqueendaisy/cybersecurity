@@ -12,7 +12,7 @@ You have been provided with a packet capture file (pcap) containing all their re
 
 The following information were gotten from the pcap file provided on packet traffic.
 
-<img src="https://i.imgur.com/iZHkOJx.png" />
+<p align="center"> Screenshots of the information gotten from the investigation <br> <img src="https://i.imgur.com/iZHkOJx.png" /> </p>
 
 <img src="https://i.imgur.com/fGOO2Vq.png" />
 
